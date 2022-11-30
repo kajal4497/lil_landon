@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React in less than a day
+          React is a perfect marriage of  javascript and markup
         </a>
       </header>
     </div>
